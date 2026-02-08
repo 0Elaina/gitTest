@@ -5,8 +5,7 @@ public class gitTest {
         System.out.println("Hello, Git");
         System.out.println("Hello, Git");
         System.out.println("Hello, Git");
-        String str = "master test";
-        str = "hot-fix test";
+        String str = "pull test";
         System.out.println(str);
     }
 }
